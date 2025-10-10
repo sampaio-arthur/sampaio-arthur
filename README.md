@@ -8,7 +8,8 @@
 
 ###
 
-<h2 align="left">Hi 👋! I'm Sampaio. I'm studying Information and Communication Technology (UFSC) and I'm always striving to do my best, prioritizing discipline and resilience in my daily routine.....</h2>
+<h2 align="left">Hi! 👋 I'm Sampaio, Software Engineer</h2>
+<p>Bachelor's in Information and Communication Technologies from <strong>Federal University of Santa Catarina (UFSC)</strong></p>
 
 ###
 
@@ -31,15 +32,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
   <img width="12" />
 </div>
 
