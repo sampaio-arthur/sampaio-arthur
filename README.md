@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://img1.picmix.com/output/stamp/normal/2/4/0/4/1544042_845dc.gif](https://tenor.com/search/patrick-bateman-gifs)" />
+  <img height="200" src="https://img1.picmix.com/output/stamp/normal/2/4/0/4/1544042_845dc.gif" />
 </div>
 
 # About Me
