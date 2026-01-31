@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNrbGFsODgyeDhqMnNwemY5czlmZmRlamFjc2o0aTFpenYycG5sOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fs6OGJ4Eb3ajC/giphy.gif" />
+  <img height="200" src="https://tenor.com/g5TM1ibHW89.gif" />
 </div>
 
 # About Me
