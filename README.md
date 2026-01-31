@@ -12,10 +12,12 @@ Bachelor's in Information and Communication Technologies from **Federal Universi
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&v=2" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&theme=dracula&v=2" alt="Top Languages" />
-  <br>
-  <img height="165" src="https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula&v=2" alt="GitHub Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_id=123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&theme=dracula&cache_id=123)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula&cache_id=123)
+
 </div>
 
 ---
