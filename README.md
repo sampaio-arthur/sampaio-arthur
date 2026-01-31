@@ -7,6 +7,12 @@
 ## Hi! I'm Sampaio, Software Engineer
 Bachelor's in Information and Communication Technologies from **Federal University of Santa Catarina (UFSC)**
 
+I started my programming career at the end of 2023. Since then, I have participated in research projects at **UFSC**, developing applications aimed at the academic sector with works presented at the national level.
+
+Currently, I work as a **Software Engineer** specializing in **Backend** and in creating chatbots and intelligent agents integrated with APIs for process automation. My focus is on developing efficient solutions and optimizing automated workflows for different business contexts.
+
+📫 **Contact:** If I can contribute in any way, feel free to reach out to me on LinkedIn or via email: **arthurbarrasampaio@gmail.com**
+
 ---
 
 <h2 align="center">GitHub Stats</h2>
@@ -21,14 +27,24 @@ Bachelor's in Information and Communication Technologies from **Federal Universi
 
 ---
 
-## Techs
+## Techs & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="45" alt="Quarkus" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img width="5" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="45" alt="n8n" />
 </p>
 
 ---
