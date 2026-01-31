@@ -10,26 +10,32 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sampaio-arthur&layout=compact&langs_count=10&card_width=320&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
+  <!-- GitHub Readme Stats (Markdown-style images usually render more reliably) -->
+  <a href="https://github.com/sampaio-arthur">
+    <img
+      height="150"
+      alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    />
+  </a>
 
-  <!-- Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=sampaio-arthur&theme=dracula&hide_border=false&border_radius=5"
-    height="150"
-    alt="GitHub streak"
-  />
+  <a href="https://github.com/sampaio-arthur">
+    <img
+      height="150"
+      alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&card_width=320&theme=dracula"
+    />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img
+      height="150"
+      alt="GitHub streak"
+      src="https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula&mode=daily&type=svg"
+    />
+  </a>
+
 </div>
 
 <h2 align="left">Techs</h2>
