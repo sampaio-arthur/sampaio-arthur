@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRtdzMwNDd3djJhOTQ1a3ByOTg4cjM3eXN6dGRhYjZ6NWMyYTZneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YHYmMLkOmqoo/giphy.gif" />
-</div>
+</p>
 
 # About Me
 
@@ -11,32 +11,31 @@ Bachelor's in Information and Communication Technologies from **Federal Universi
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_id=123)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&theme=dracula&cache_id=123)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula&cache_id=123)
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&theme=dracula" alt="Top Languages" />
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## Techs
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-</div>
+</p>
 
 ---
 
 ## Social Medias
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/sampaio-arthur/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn" />
   </a>
@@ -49,4 +48,4 @@ Bachelor's in Information and Communication Technologies from **Federal Universi
   <a href="https://wa.me/5548999895574" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="35" alt="WhatsApp" />
   </a>
-</div>
+</p>
