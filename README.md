@@ -21,9 +21,6 @@ Currently, I work as a **Software Engineer** specializing in **Backend** and in 
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sampaio-arthur&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sampaio-arthur&layout=compact&langs_count=10&theme=dracula" alt="Top Languages" />
 </p>
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=sampaio-arthur&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
 
