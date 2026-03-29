@@ -4,7 +4,6 @@
 
 # About Me
 
-## Hi! I'm Sampaio, Software Engineer
 Bachelor's in Information and Communication Technologies from **Federal University of Santa Catarina (UFSC)**
 
 I started my programming career at the end of 2023. Since then, I have participated in research projects at **UFSC**, developing applications aimed at the academic sector with works presented at the national level.
