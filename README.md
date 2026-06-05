@@ -4,11 +4,9 @@
 
 # About Me
 
-Bachelor's in Information and Communication Technologies from **Federal University of Santa Catarina (UFSC)**
+Software Developer with experience in web applications, systems integration, microservices, and Artificial Intelligence-based solutions. I work on building scalable applications, process automation, and integrations across different services and platforms.
 
-I started my programming career at the end of 2023. Since then, I have participated in research projects at **UFSC**, developing applications aimed at the academic sector with works presented at the national level.
-
-Currently, I work as a **Software Engineer** specializing in **Backend** and in creating chatbots and intelligent agents integrated with APIs for process automation. My focus is on developing efficient solutions and optimizing automated workflows for different business contexts.
+I am particularly interested in Artificial Intelligence, software architecture, and cloud computing, continuously seeking to expand my knowledge and apply new technologies to create simple, efficient solutions that deliver value to users and organizations.
 
 📫 **Contact:** If I can contribute in any way, feel free to reach out to me on LinkedIn or via email: **arthurbarrasampaio@gmail.com**
 
