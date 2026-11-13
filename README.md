@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRtdzMwNDd3djJhOTQ1a3ByOTg4cjM3eXN6dGRhYjZ6NWMyYTZneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YHYmMLkOmqoo/giphy.gif" />
+  <img height="200" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRtdzMwNDd3djJhOTQ1a3ByOTg4cjM3eXN6dGRhYjZ6NWMyYTZneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YHYmMLkOmqoo/giphy.gif](https://www.behance.net/gallery/133927413/CREATIVE-CODING-EXPLORATIONS-III/modules/761255137)" />
 </p>
 
 # About Me
