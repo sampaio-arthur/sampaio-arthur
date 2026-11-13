@@ -1,6 +1,5 @@
 <p align="center">
-  <img height="200" src="
-https://mir-s3-cdn-cf.behance.net/project_modules/source/fbedee133927413.61d715dea7929.gif" />
+  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/fbedee133927413.61d715dea7929.gif" />
 </p>
 
 # About Me
